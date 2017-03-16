@@ -6,6 +6,8 @@ Allows statics collecting and querying through API REST.
 
 mvn clean install
 
+** Currently there is no specific profile for integration tests so "mvn clean install" takes around 1 minute. **
+
 # Running
 
 mvn spring-boot:run
